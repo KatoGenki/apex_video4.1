@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "apex_video4.sln"
+    "dotnet.defaultSolution": "apex_video4.1.sln"
 }
